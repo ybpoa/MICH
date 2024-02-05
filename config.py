@@ -10,7 +10,7 @@ load_dotenv()
 
 
 DEVS = [
-    607067484, # Ayiin
+    6144669103, # MICH
     997461844, # Punya Ayiin
     844432220, # Risman
     883761960, # Ari
