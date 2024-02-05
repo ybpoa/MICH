@@ -1,0 +1,64 @@
+<h1 align="center">  𝐌𝐈𝐂𝐇 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 </h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file\/55ad6b0685c8a301ca778.jpg">
+</p>
+
+ 𝐌𝐈𝐂𝐇 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+
+Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
+
+## Disclaimer
+
+```
+Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
+Bot ini dimaksudkan untuk bersenang-senang sekaligus membantu anda
+mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
+Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak.
+```
+
+## ========×========
+
+<details>
+<summary><b>🔗 String Session</b></summary>
+<br>
+
+> Anda memerlukan API_ID & API_HASH untuk menghasilkan sesi telethon. ambil APP ID dan API Hash di my.telegram.org
+<h4> Generate Session via Repl: </h4>    
+<h4> Generate Session via Telegram StringGen Bot: </h4>    
+
+</details>
+
+<details>
+<summary><b>🔗 Deploy di VPS</b></summary>
+<br>
+
+### Tutorial Deploy di VPS
+
+
+ • `git clone https://github.com/ybpoa/MICH
+
+ • `cd MICH-Userbot`
+
+ • `pip3 install -U -r requirements.txt`
+
+ • `mv sample.env .env`
+
+ • `nano .env`
+  - isi vars
+  - Jika sudah 
+  - ketik ctrl + S
+  - ctrl + X
+
+ • `screen -S MICH-Userbot`
+
+ • `bash start`
+
+</details>
+
+## Updates & Support
+
+Follow Channel [@MICHUSERBOT](https://t.me/MICHUSERBOT) untuk info Update bot dan Gabung Group [@chatuserb](https://t.me/chatuserb) untuk untuk diskusi, pelaporan bug, dan bantuan tentang MICH-Userbot.
+
+## License
+Licensed under https://github.com/ybpoa/MICH/blob/main/LICENSE) - Version 1.d, February 2024
