@@ -3,7 +3,7 @@
   "description": "[MICH-Userbot] Userbot Hanya Untuk Bersenang - Senang",
   "logo": "https://telegra.ph//file\/55ad6b0685c8a301ca778.jpg",
   "keywords": ["telegram", "userbot", "MICH-Userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "repository": "https://github.com/ybpoa/MICH",
   "stack": "container",
   "env": {
     "API_KEY": {
