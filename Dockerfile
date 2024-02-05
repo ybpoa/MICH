@@ -5,7 +5,7 @@
 
 FROM MICH/MICH
 
-RUN git clone -b Ayiin-Userbot https:https://github.com/ybpoa/MICH
+RUN git clone -b MICH-Userbot https:https://github.com/ybpoa/MICH
 
 #COPY ./sample.env ./.env* /home/MICHuserbot/
 
