@@ -5,9 +5,7 @@
 
 FROM MICH/MICH
 
-RUN git clone -b Ayiin-Userbot https://github.com/AyiinXd/Ayiin-Userbot /home/ayiinuserbot/ \
-    && chmod 777 /home/ayiinuserbot \
-    && mkdir /home/ayiinuserbot/bin/
+RUN git clone -b Ayiin-Userbot https:https://github.com/ybpoa/MICH
 
 #COPY ./sample.env ./.env* /home/MICHuserbot/
 
